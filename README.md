@@ -11,7 +11,7 @@ This is a project from the first circle of the 42cursus.
   * Unix logic
 
 ### Final grade
-  100/100
+  100/100.
 
 
 ### How to use
