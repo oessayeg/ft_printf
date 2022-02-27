@@ -6,7 +6,6 @@ This is a project from the first circle of the 42cursus.
   * Mimic the following conversions of the printf function : %d %i %x %X %p %c %s %% %u
 
 ### What I learnt from this project
-  * Problem solving
   * Variadic functions
   * Unix logic
 
