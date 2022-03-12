@@ -17,4 +17,4 @@ This is a project from the first circle of the 42cursus.
 
 
 ### How to use
-  1. Include 'ft_printf.h' in the main file, type make in the terminal for the compilation process, compile the main file with libftprintf.a.
+  1. Include 'ft_printf.h' in the main file, type make in the terminal for the compilation process, compile the main file with 'libftprintf.a'.
