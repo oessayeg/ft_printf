@@ -1,4 +1,4 @@
-# ft_printf :writing_hand:
+# Ft_printf :writing_hand:
 
 This is a project from the first circle of the 42cursus.
 
