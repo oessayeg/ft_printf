@@ -8,7 +8,7 @@ This is a project from the first circle of the 42cursus.
 ### Allowed functions
   * malloc, free, write, va_start, va_arg, va_copy, va_end
 
-### What I have learnt from this project
+### Skills learnt from this project
   * Variadic functions
   * Unix logic
 
